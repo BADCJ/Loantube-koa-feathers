@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@feathersjs/feathers": "^5.0.24",
+    "@feathersjs/koa": "^5.0.24",
+    "feathers": "^2.2.4",
+    "feathers-rest": "^1.8.1",
+    "request-promise": "^4.2.6"
+  }
+}
